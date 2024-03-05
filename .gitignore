@@ -1,0 +1,25 @@
+# Node.js
+node_modules/
+*.log
+yarn-error.log
+package-lock.json
+
+# Cypress
+cypress/videos/
+cypress/screenshots/
+
+# IDE
+.idea/
+.vscode/
+
+# System
+.DS_Store
+
+# Build
+coverage/
+
+# Other
+*.sublime-project
+.eslintcache
+.env
+*.swp
